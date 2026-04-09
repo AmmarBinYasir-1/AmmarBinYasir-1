@@ -41,24 +41,11 @@ My stack: HTML, CSS & JavaScript on the frontend, Node.js on the backend. I'm al
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmmarBinYasir-1&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarBinYasir-1&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmmarBinYasir-1&theme=tokyonight)](https://git.io/streak-stats)
 
----
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmmarBinyasir-1&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📫 Connect With Me
 
