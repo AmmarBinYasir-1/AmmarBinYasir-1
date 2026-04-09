@@ -1,4 +1,4 @@
-# Hi there, I'm [Ammar Yasir ] 👋
+# Hi there, I'm Ammar Yasir  👋
 
 ## 🚀 About Me
 
